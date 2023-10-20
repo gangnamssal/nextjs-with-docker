@@ -7,7 +7,7 @@ export default function Home() {
 			<div className={styles.description}>
 				<p>
 					Get startefdfsdd by editing&nbsp;
-					<code className={styles.code}>src/app/page.tsxxxtttttqqqqt</code>
+					<code className={styles.code}>src/app/page.tsxxxtttttqqqqtdsfsafas</code>
 				</p>
 				<div>
 					<a
