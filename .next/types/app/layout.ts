@@ -1,4 +1,4 @@
-// File: /Users/kimtaeheon/Desktop/test/src/app/layout.tsx
+// File: /Users/kimtaeheon/Desktop/cicd_test/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
